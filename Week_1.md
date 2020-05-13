@@ -17,13 +17,13 @@ By the end of the week all developers can:
 2. Pair using the driver-navigator style
 ... Will be in the Boris_Bikes repo (will link at the end of the week)
 
-## Daily Goals
+# Daily Goals
 
-# Tuesday 12th May
+## Tuesday 12th May
 goal: setup and have a success pairing session
 evidence: repro made at end of the day - link if its the same one at end of the week
 
-# Wednesday 13th May
+## Wednesday 13th May
 goal: a good pairing session, setting out to take breaks at a sensible time, making sure both people are clear with each stage
 proof: conversation at the end of the session, and also the work created by it
 
