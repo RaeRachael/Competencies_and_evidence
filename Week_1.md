@@ -29,3 +29,11 @@ proof: conversation at the end of the session, and also the work created by it
 
 bonus goal: work on the readme.md file for exploration game based on feedback from the coach.
 proof: commit messages
+evidence: [readme.md](https://github.com/RaeRachael/exploration_game/blob/master/readme.md)
+
+## Thursday 14th May
+goal: try to be less dictator-y when navigating, my goal is to remind the driver of the target result of the method rather than specify how it is done.
+proof: conversation at the end of the session, and also the work created by it
+
+bonus goal: finish work on the readme.md file, screenshot and visual representation of the current code state
+proof: commit messages 
