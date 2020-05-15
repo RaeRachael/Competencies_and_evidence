@@ -16,6 +16,10 @@ By the end of the week all developers can:
 ... [TDD shown here](https://github.com/RaeRachael/little_random_things/tree/master/TDD_playground)
 2. Pair using the driver-navigator style
 ... Will be in the Boris_Bikes repo (will link at the end of the week)
+3. Follow an effective debugging process
+... find commit message that fixed ruby game.rb while irb - r 'game' for fine. \write about that\
+4. Describe some basic OO principles like encapsulation, SRP
+... [explore_game readme.md](https://github.com/RaeRachael/exploration_game/blob/master/readme.md), the visualation of the code shows some of this concepts being used and a visual understanding of what they are.
 
 # Daily Goals
 
