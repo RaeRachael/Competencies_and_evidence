@@ -36,4 +36,8 @@ goal: try to be less dictator-y when navigating, my goal is to remind the driver
 proof: conversation at the end of the session, and also the work created by it
 
 bonus goal: finish work on the readme.md file, screenshot and visual representation of the current code state
-proof: commit messages 
+proof: commit messages
+
+## Friday 15th May
+goal: improve ability to write tests in Rspec, and to check [relishapp](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers) for suitable matchers if and wehen
+proof: set sensible test for the made methods in explore_game, then if time set up tests for a user menu in the game.rb file
