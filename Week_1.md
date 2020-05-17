@@ -35,7 +35,7 @@ evidence: [repro] (https://github.com/RaeRachael/Boris_Bikes)
 
 bonus goal: work on the readme.md file for exploration game based on feedback from the coach. </break>
 proof: commit messages </break>
-evidence: [readme.md](https://github.com/RaeRachael/exploration_game/blob/master/readme.md) <?break>
+evidence: [readme.md](https://github.com/RaeRachael/exploration_game/blob/master/readme.md)
 
 ## Thursday 14th May
 goal: try to be less dictator-y when navigating, my goal is to remind the driver of the target result of the method rather than specify how it is done. </break>
@@ -49,4 +49,4 @@ evidence: [readme.md](https://github.com/RaeRachael/exploration_game/blob/master
 ## Friday 15th May
 goal: improve ability to write tests in Rspec, and to check [relishapp](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers) for suitable matchers if and when needed </break>
 proof: set sensible test for the made methods in explore_game, then if time set up tests for a user menu in the game.rb file
-evidence: [spec files](https://github.com/RaeRachael/exploration_game/blob/master/spec)
+evidence: [spec files](https://github.com/RaeRachael/exploration_game/tree/master/spec)
