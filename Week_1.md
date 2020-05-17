@@ -24,24 +24,29 @@ By the end of the week all developers can:
 # Daily Goals
 
 ## Tuesday 12th May
-goal: setup and have a success pairing session
-evidence: repro made at end of the day - link if its the same one at end of the week
+goal: setup and have a success pairing session. </break>
+evidence: repro made at end of the day - [repro](https://github.com/RaeRachael/Boris_Bikes)
+
 
 ## Wednesday 13th May
-goal: a good pairing session, setting out to take breaks at a sensible time, making sure both people are clear with each stage
-proof: conversation at the end of the session, and also the work created by it
+goal: a good pairing session, setting out to take breaks at a sensible time, making sure both people are clear with each stage. </break>
+proof: conversation at the end of the session, and also the work created by it. </break>
+evidence: [repro] (https://github.com/RaeRachael/Boris_Bikes)
 
-bonus goal: work on the readme.md file for exploration game based on feedback from the coach.
+bonus goal: work on the readme.md file for exploration game based on feedback from the coach. </break>
+proof: commit messages </break>
+evidence: [readme.md](https://github.com/RaeRachael/exploration_game/blob/master/readme.md) <?break>
+
+## Thursday 14th May
+goal: try to be less dictator-y when navigating, my goal is to remind the driver of the target result of the method rather than specify how it is done. </break>
+proof: conversation at the end of the session, and also the work created by it. </break>
+evidence: [repro](https://github.com/RaeRachael/boris_bikes-1)
+
+bonus goal: finish work on the readme.md file, screenshot and visual representation of the current code state </break>
 proof: commit messages
 evidence: [readme.md](https://github.com/RaeRachael/exploration_game/blob/master/readme.md)
 
-## Thursday 14th May
-goal: try to be less dictator-y when navigating, my goal is to remind the driver of the target result of the method rather than specify how it is done.
-proof: conversation at the end of the session, and also the work created by it
-
-bonus goal: finish work on the readme.md file, screenshot and visual representation of the current code state
-proof: commit messages
-
 ## Friday 15th May
-goal: improve ability to write tests in Rspec, and to check [relishapp](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers) for suitable matchers if and wehen
+goal: improve ability to write tests in Rspec, and to check [relishapp](https://relishapp.com/rspec/rspec-expectations/docs/built-in-matchers) for suitable matchers if and when needed </break>
 proof: set sensible test for the made methods in explore_game, then if time set up tests for a user menu in the game.rb file
+evidence: [spec files](https://github.com/RaeRachael/exploration_game/blob/master/spec)
