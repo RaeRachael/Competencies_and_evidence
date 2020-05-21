@@ -38,3 +38,4 @@ plan: keep appropriate tabs open in chrome to check while building tests and loo
 evidence: finish the spec tests for feature responses in explore_game, then begin to refactor the code via private methods
 
 (exciting event - first time I used an exit code. For testing that the game exits at a certain point (monster-player in the same location)
+(exciting event - creating error class to handle level changes and so that stairs can be tested)
