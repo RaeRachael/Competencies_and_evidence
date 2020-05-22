@@ -31,7 +31,7 @@ goal: to the ideas I read about for encapsulation into practice, and the further
 plan: keep appropriate tabs open in chrome to check while building tests and looking at the layout of the methods in each class. <br/>
 evidence: finish the spec tests for Tile classes in explore_game, then begin to refactor the code via private methods
 
-#### Thursday 20th May
+#### Thursday 21st May
 
 goal: to the ideas I read about for encapsulation into practice, and the further practice different ways to test in RSpec, trying to find good ways to test behaviour over state. <br/>
 plan: keep appropriate tabs open in chrome to check while building tests and looking at the layout of the methods in each class. <br/>
@@ -39,3 +39,9 @@ evidence: finish the spec tests for feature responses in explore_game, then begi
 
 (exciting event - first time I used an exit code. For testing that the game exits at a certain point (monster-player in the same location)
 (exciting event - creating error class to handle level changes and so that stairs can be tested)
+
+#### Friday 22nd May
+
+goal: to understand how to make a custom error class, and to be about to access the messages in it. <br/>
+plan: look up more examples of custom classes, find documentation of the code for sub classes of StandardError <br/>
+edivence: both the code and the tests run correctly at the same time.
