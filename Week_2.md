@@ -44,4 +44,4 @@ evidence: finish the spec tests for feature responses in explore_game, then begi
 
 goal: to understand how to make a custom error class, and to be about to access the messages in it. <br/>
 plan: look up more examples of custom classes, find documentation of the code for sub classes of StandardError <br/>
-edivence: both the code and the tests run correctly at the same time.
+evidence: both the code and the tests run correctly at the same time.
