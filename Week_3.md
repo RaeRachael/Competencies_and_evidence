@@ -30,3 +30,17 @@ goal: get used to erb formatting <br/>
 plan: look up the debugging exercise in week-3 <br/>
 evidence: being able to explain and fix the bugs <br/>
 proof: a pushed repo
+
+#### Thursday 28th May
+
+goal: get used to erb formatting <br/>
+plan: look up the debugging exercise in week-3 <br/>
+evidence: being able to explain and fix the bugs <br/>
+proof: a pushed repo
+
+#### Friday 29th May
+
+goal: to see and create some ruby code that interacts with user input from a webpage <br/>
+plan: battle afternoon task, lokking at peoples code who have done the birthday challenge <br/>
+evidence: code from the afternoon <br/>
+proof: afternoon repro
