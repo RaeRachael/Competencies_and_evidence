@@ -9,10 +9,10 @@
 
 #### Evidence
 
-1. Explore_Game [week1](https://github.com/RaeRachael/exploration_game#friday-15th-may),[week2](https://github.com/RaeRachael/exploration_game#friday-22nd-may)
+1. Explore_Game [week1](https://github.com/RaeRachael/exploration_game#friday-15th-may), [week2](https://github.com/RaeRachael/exploration_game#friday-22nd-may)
 2. Journey in Oystercard, Formatter in weekend takeaway
 3. [Explore_Game](https://github.com/RaeRachael/exploration_game/tree/master/spec), [Airport](https://github.com/RaeRachael/airport_challenge/tree/master/spec), [Oystercard](https://github.com/RaeRachael/Oystercard/tree/master/spec), [Take-away](https://github.com/RaeRachael/takeaway-challenge/tree/master/spec)
-4. xplore_Game [week1](https://github.com/RaeRachael/exploration_game#friday-15th-may),[week2](https://github.com/RaeRachael/exploration_game#friday-22nd-may)
+4. xplore_Game [week1](https://github.com/RaeRachael/exploration_game#friday-15th-may), [week2](https://github.com/RaeRachael/exploration_game#friday-22nd-may)
 5. [Review of Al's Airport](https://github.com/makersacademy/airport_challenge/pull/1811) and Review of Sophie's Airport (Pull request has been closed)
 
 ### Daily Goals
