@@ -15,8 +15,8 @@
 
 #### Monday 1st June
 
-goal: 
-plan: 
-evidence:
-proof: 
+goal: work on; Explain the basics of how databases work (e.g. tables, SQL, basic relationships) </br>
+plan: check out resources on the week outline
+evidence: being able to 
+proof: chats with friends
 
