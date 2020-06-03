@@ -26,3 +26,10 @@ goal: work on; Explain the basics of how databases work (e.g. tables, SQL, basic
 plan: check out resources on the week outline, google </br>
 evidence: finish SQLZoo </br>
 proof: chats with friends </br>
+
+### Wednesday 3rd June
+
+goal: have a look at JavaScript </br>
+plan: codewars katas, and other poeople solutions </br>
+evidence: making passing katas without needing to look up basic syntax </br>
+proof: 6 Kyu ?? maybe 
