@@ -7,9 +7,9 @@
 
 #### Evidence
 
-1.
-2. 
-3.  
+1. Afternoons; [bookmarks](https://github.com/RaeRachael/bookmarker_manager_wed), Weekend; [chitter](https://github.com/RaeRachael/chitter-challenge)
+2. No evidence for this, didn't record fixing any errors (because error fixing is too fun to record)
+3. Conversation with people
 
 ### Daily Goals
 
