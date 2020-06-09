@@ -17,3 +17,10 @@ goal: Get more used to Javascript syntax </br>
 plan: Afternoon work, maybe continue with Codewars katas </br>
 evidence: more time coding less time looking things up </br>
 proof: having nicer looking JS code </br>
+
+#### Tuesday 9th June
+
+goal: Get more used to Javascript syntax </br>
+plan: Afternoon work, contiue to work on airport in morning spare time </br>
+evidence: airport repo being more my code than walkthrough </br>
+proof: having nicer looking JS code in airport repo </br>
