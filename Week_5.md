@@ -31,3 +31,10 @@ goal: Get more used to Javascript syntax </br>
 plan: Afternoon work, contiue to work on airport in morning spare time </br>
 evidence: airport repo being more my code than walkthrough </br>
 proof: having nicer looking JS code in airport repo </br>
+
+#### Thursaday 11th June
+
+goal: understand what AJAX actual means
+plan: follow workshop in the morning
+evidence: ability to explain it this afternoon
+proof: clear explainations to other people
