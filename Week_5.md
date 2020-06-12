@@ -38,3 +38,10 @@ goal: understand what AJAX actual means
 plan: follow workshop in the morning
 evidence: ability to explain it this afternoon
 proof: clear explainations to other people
+
+#### Friday 12th June
+
+goal: improve css skills
+plan: do lots of css play in afternoon
+evidence: can make something pretty
+proof: pretty output form afternoon
