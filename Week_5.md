@@ -6,7 +6,7 @@
 
 #### Evidence
 
-1. Afternoon; Weekend;
+1. Afternoon, [thermostat](https://github.com/RaeRachael/thermostat_fri); Weekend;
 2. Same as above
 
 ### Daily Goals
