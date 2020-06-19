@@ -35,4 +35,11 @@ proof: can get the data out of the database and into webpage (Success)
 goal: try to understand how multiple tables can be used together in a database</br>
 plan: attempt in a pair, google / or look at other pair in the teams code  </br>
 evidence: can follow the logic and create functions that interact with multiple tables </br>
+proof: pushed up code (ended up working out how to get sessions to work in node - express. So different but successful)
+
+#### Friday 19th June
+
+goal: try to understand how multiple tables can be used together in a database</br>
+plan: attempt in a pair, google / or look at other pair in the teams code  </br>
+evidence: can follow the logic and create functions that interact with multiple tables </br>
 proof: pushed up code
