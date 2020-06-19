@@ -4,7 +4,7 @@
 1. Break down projects into tasks and allocate them to pairs
 2. Build to a specificiation (rather than challenges)
 3. Run stand-ups and retrospectives
-4.Use a branch/PR/merge git workflow
+4. Use a branch/PR/merge git workflow
 5. Give and receive meaningful code review
 
 #### Evidence
