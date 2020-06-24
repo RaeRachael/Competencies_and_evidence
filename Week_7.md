@@ -24,3 +24,10 @@ goal: Get used to vim style key movements </br>
 plan: setup atom with vim style keybindings, create paper cheatsheets for the keyboard codes </br>
 evidence: possible to do coding without needing the keypad </br>
 proof: can do more coding without needing to use the touch pad </br>
+
+#### Wednesday 24th June
+
+goal: Node module pattern, get understanding of it </br>
+plan: Node module pattern workshop, maybe continue after. Bonus of doing it with vim navigation keys </br>
+evidence: Can explain it at the end of the day </br>
+proof: Possible conversation with people </br>
