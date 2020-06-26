@@ -38,3 +38,10 @@ goal: Get used to vim style key movements </br>
 plan: setup atom with vim style keybindings, create paper cheatsheets for the keyboard codes </br>
 evidence: possible to do coding without needing the keypad </br>
 proof: can do more coding without needing to use the touch pad </br>
+
+#### Friday 26th June
+
+goal: Fully understand the structure of the single frontend webapp, in the afternoon. </br>
+plan: afternoon code, the in the evening/weekend look over the parts that I didn't get to. </br>
+evidence: can explain how the logic should work to someone </br>
+proof: can plan out a single frontend webapp structure </br>
