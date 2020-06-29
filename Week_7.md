@@ -7,7 +7,7 @@
 
 #### Evidence
 
-1.
+1., 2. & 3. [Afternoon](https://github.com/RaeRachael/notes_wed) and [very unfinished weekend](https://github.com/RaeRachael/frontend-api-challenge)
 
 ### Daily Goals
 
